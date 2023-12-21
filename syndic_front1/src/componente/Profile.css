@@ -1,0 +1,31 @@
+.profile-container {
+  display: flex;
+  flex-direction: row; /* This makes it horizontal, for vertical change to 'column' */
+  justify-content: flex-start; /* Adjust as needed */
+  align-items: stretch; /* This will make it take full height */
+  width: 300px;
+  height: 100%;
+}
+
+.profile-info {
+  padding: 30px;
+  background-color: rgb(9, 97, 179);
+  
+  /* Remove margin */
+  /* Additional styling for the profile info */
+}
+.profile-info2 {
+  padding: 30px;
+  background-color: rgb(0, 37, 49);
+  
+  /* Remove margin */
+  /* Additional styling for the profile info */
+}
+.t1{
+
+  background-color: rgb(9, 97, 179);
+}
+.t2{
+
+  background-color: rgb(0, 37, 49);
+}
